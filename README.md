@@ -20,6 +20,3 @@ The dashboard can be customized by modifying the source code in the `src` folder
 [FullCalendar](https://fullcalendar.io/) is a JavaScript library for displaying calendars in web applications. It is also included in this dashboard and can be used to display events and appointments.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use it for personal or commercial purposes.
